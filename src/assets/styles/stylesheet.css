@@ -1,0 +1,10 @@
+.navbar a {
+    color:white;
+}
+.list-group-item {
+    border-color: transparent;
+}
+
+.navbar-default a{
+    color: black;
+}
